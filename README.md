@@ -9,9 +9,11 @@
 - SCSS
 - TailwindCSS
 - Styled-component
-- JavaScript
+- Javascript
+- Typescript
 - React
 - Redux
+- Axios
 
 ### Back-end
 - Node.js
