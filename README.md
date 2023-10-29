@@ -18,7 +18,7 @@
 ### Back-end
 - Node.js
 
-### Database
+### Database Management System (DBMS)
 - Firebase
 - MongoDB
 
