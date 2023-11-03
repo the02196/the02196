@@ -14,6 +14,7 @@
 - React
 - Redux
 - Axios
+- NextJS
 
 ### Back-end
 - Node.js
