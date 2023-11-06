@@ -19,7 +19,7 @@
 ### Back-end
 - Node.js
 
-## NoSQL
+### NoSQL
 - Firebase
 - MongoDB
 
