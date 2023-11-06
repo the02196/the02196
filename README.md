@@ -19,9 +19,12 @@
 ### Back-end
 - Node.js
 
-### Database Management System (DBMS)
+## NoSQL
 - Firebase
 - MongoDB
+
+### SQL
+- MySQL
 
 ### Collaboration & Tools
 - VsCode
