@@ -26,6 +26,10 @@
 ### SQL
 - MySQL
 
+### studying now...
+- Dart
+- Flutter
+
 ### Collaboration & Tools
 - VsCode
 - Git, GitHub
