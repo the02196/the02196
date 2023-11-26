@@ -4,6 +4,10 @@
 
 ## Skills
 
+### studying now...
+- Dart
+- Flutter
+
 ### Front-end
 - HTML5 & CSS
 - SCSS
@@ -25,10 +29,6 @@
 
 ### SQL
 - MySQL
-
-### studying now...
-- Dart
-- Flutter
 
 ### Collaboration & Tools
 - VsCode
